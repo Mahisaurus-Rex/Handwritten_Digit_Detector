@@ -5,7 +5,7 @@ from keras.models import load_model
 import numpy as np
 from PIL import Image
 from PIL import ImageOps
-
+#Hey Maor
 
 class Window(Frame):
     def __init__(self, master, width = 800, height = 600):
